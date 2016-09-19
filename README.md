@@ -1,0 +1,2 @@
+# AppWidgetCollection
+Android端的带数据集的桌面空间开发demo
